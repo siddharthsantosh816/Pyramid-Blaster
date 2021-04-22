@@ -1,1 +1,2 @@
-# Pyramid-Blaster
+# MatterJSBoilerPlate
+MatterJSBoilerPlate

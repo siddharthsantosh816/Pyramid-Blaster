@@ -1,2 +1,2 @@
 # MatterJSBoilerPlate
-MatterJSBoilerPlate
+Pyramid Blaster 
